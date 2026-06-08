@@ -53,3 +53,7 @@ The data sets and image classifiers used in the experiments are from the followi
 
 [8] M.-E. Nilsback and A. Zisserman, “Automated flower classification over a large number of classes,” in Indian Conference on Computer Vision, Graphics and Image Processing, Dec 2008.
 
+The image segmentation algorithms are from the following works:
+
+[9] T. Lei, X. Jia, Y. Zhang, S. Liu, H. Meng, and A. K. Nandi, “Superpixel-based fast fuzzy C-means clustering for color image segmentation,” IEEE Transactions on Fuzzy Systems, vol. 27, no. 9, pp. 1753–1766, 2019.
+
